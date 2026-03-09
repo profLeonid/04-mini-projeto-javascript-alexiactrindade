@@ -111,6 +111,30 @@ button:hover {
   justify-content: center;
 }
 
+.abaixo-peso {
+  background-color: #1e3a5f;
+}
+
+.peso-normal { 
+  background-color: #14532d;
+}
+
+.sobrepeso { 
+  background-color: #713f12;
+}
+
+.grauI {
+  background-color: #7f1d1d;
+}
+
+.grauII {
+  background-color: #6b0f0f;
+}
+
+.grauIII { 
+  background-color: #450a0a;
+}
+
 footer {
   display: flex;
   align-items: flex-end;

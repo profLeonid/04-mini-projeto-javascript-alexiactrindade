@@ -109,6 +109,18 @@ button:hover {
   justify-content: center;
 }
 
+.resultado.ate-cinco { 
+  background-color: #14532d;
+}
+
+.resultado.entre-cinco-dez { 
+  background-color: #713f12;
+}
+
+.resultado.acima-dez { 
+  background-color: #7f1d1d;
+}
+
 footer {
   display: flex;
   align-items: flex-end;
